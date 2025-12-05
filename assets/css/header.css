@@ -234,6 +234,15 @@ header{
 
 
 @media (max-width: 570px){
-
-
+  header  .btn-reg {
+        height: auto;
+        padding: 13px 25px;
+        font-size: 12px;
+    }
+   header .btn-login {
+        font-size: 12px;
+    }
+    header .btn-login {
+        font-size: 12px;
+    }
 }
